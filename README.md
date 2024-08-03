@@ -37,6 +37,8 @@ I am looking for opportunities in Frontend Engineering with core Tech Expertise:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham43MP&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham43MP&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shubham43MP&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8](https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shubham43MP)"/>
+
 </details>
 
 <details>
