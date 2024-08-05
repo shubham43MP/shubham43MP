@@ -67,7 +67,7 @@ I am looking for opportunities in Frontend Engineering with core Tech Expertise:
       </tr>
       <tr>
        <tr>
-	      <td><a href="https://github.com/shubham43MP/tara-series"><b>🚀 Tara Series Astro App/b></a></td>
+	      <td><a href="https://github.com/shubham43MP/tara-series"><b>🚀 Astrology App/b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/shubham43MP/tara-series?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/shubham43MP/tara-series?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/shubham43MP/tara-series?style=flat-square"/></td>
