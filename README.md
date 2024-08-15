@@ -10,12 +10,11 @@ I am looking for opportunities in Frontend Engineering with core Tech Expertise:
 
 ### Personally:
 
-- 🛠 &nbsp; I have a lot of passion working with TypeScript/React/Javascript.
-- 🚀 &nbsp; I’m currently playing around with AI powered chatbots in my free time.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shubham43MP).
-- 📫 &nbsp; How to reach me: shubham21dixit@gmail.com.
+- 🛠 &nbsp; I have a lot of passion working with TypeScript/React/Javascript
+- 🚀 &nbsp; I’m currently playing around with AI powered chatbots in my free time
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shubham43MP)
 - 💻 &nbsp; I write frontend that is Accessible, SEO Optimised, Secured and Performant complying with the WCAG 2.2 principles
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1JCxzmbIiOvpbfYiJcHM-8y_URSzPlLys/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1JCxzmbIiOvpbfYiJcHM-8y_URSzPlLys/view?usp=sharing)
 
 ### My Absolute Favorites:
 
