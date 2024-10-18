@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [Shubham Dixit!](https://github.com/shubham43MP/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dixit-918888148/)
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
 I'm a Sr Software Engineer constantly learning and solving problems. I have also recently picked up NextJS to widen my skillset. I'm always open to learning different ideas, working practices and cultures 💡. I love to explore new technologies and leverage them to solve real-world issues ✨.
