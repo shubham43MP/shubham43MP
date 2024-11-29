@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Shubham Dixit!](https://github.com/shubham43MP/)
+## Hey 👋
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mkimbo.mkimbo&style=flat-square&color=0088cc)
 
